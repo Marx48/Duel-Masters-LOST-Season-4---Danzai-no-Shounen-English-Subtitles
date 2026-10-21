@@ -1,4 +1,4 @@
-# Duel-Masters-LOST(Season-4)Danzai no Shounen English Subtitles
+# Duel Masters LOST(Season-4)Danzai no Shounen English Subtitles
 English sub (.ass) for Duel Masters LOST: Danzai no Shounen
 Repository dedicated to storing subtitles (.ass format) for **Duel Masters LOST: Danzai no Shounen** (Duel Masters LOST Season 4)
 
